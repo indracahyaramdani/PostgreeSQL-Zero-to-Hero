@@ -1,0 +1,6 @@
+# Database
+Sebagai orang awam mungkin database merupakan sesuatu yang sangat asing. Mari kita ilustrasikan bahwa terdapat dokumen A (Aset barang) dan dokumen B (Arus kas) dimana kedua isinya berbeda tapi saling berhubungan. Kita tahu bahwa penyimpanan dokumen yaitu pada lemari dengan mengklasifikasikan dokumen A dan dokumen B maka kita tahu jika misalnya saya akan menginputkan barang baru berarti kita harus mengambil dokumen A jika sebaliknya maka berlaku yang sama. Selanjutnya, konsep tersebut diterapkan pada dunia teknologi. Sehingga dapat disimpulkan bahwa Database adalah tempat menyimpad data dengan sistem yang efektif dan efisien sehingga dapat dengan mudah mengaksesnya.
+
+
+# Referensi
+1. 
